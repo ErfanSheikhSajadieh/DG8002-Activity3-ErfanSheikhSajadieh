@@ -8,11 +8,11 @@ print statements, and conditionals.
 
 ## Files
 
-- f26-activity3-partA.py — CAD to USD conversion
-- f26-activity3-partB.py — Celsius to Fahrenheit conversion
-- f26-activity3-partC.py — Tip calculation and bill splitting
-- f26-activity3-partD.py — Simple interest calculation
-- f26-activity3-partE.py — Travel time and fuel costs
+- f26-activity3-partA.py - CAD to USD conversion
+- f26-activity3-partB.py - Celsius to Fahrenheit conversion
+- f26-activity3-partC.py - Tip calculation and bill splitting
+- f26-activity3-partD.py - Simple interest calculation
+- f26-activity3-partE.py - Travel time and fuel costs
 
 ## How to run
 
